@@ -3,6 +3,7 @@
 Hello we gonna make today Windows-User-Account-Forensics room.
 
 <h4>Learning Objectives</h4>
+
 🛡️Identify and analyze forensic artefacts related to user and system accounts in Windows.
 
 🛡️Understand the forensic aspects of the user account lifecycle, including creation, modification, and deletion.
