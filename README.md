@@ -60,3 +60,21 @@ Check below, where you can find that dns name:
 
 
 <h3>4.Group Policy Artefacts</h3>
+
+Task 1:What is the name of the user specified as the apply target for this Policy?
+First we need to do is open group polcy managment, then go to tryhackme.com>Group Policy Object>Default Policy Object. 
+
+![image](https://github.com/user-attachments/assets/a1716a4b-50ee-4b9b-acd6-00fb8caf6d64)
+
+Task 2:Under Computer Configuration > Policies > Administrative Templates > Windows Components > Windows Defender Antivirus > Real-time Protection, what is the setting that was enabled?
+Navigato to that path, searach in windows run then wrote there gpedit.esc, below there answer:
+
+![image](https://github.com/user-attachments/assets/af62f8c1-c084-45a1-a200-3a3dd64bebae)
+
+Task 3:There is an updated malicious startup PowerShell script. What is the filename of this script? (Without file extension)
+We need to navigate to Group Police Managment > Default Domain Policy > Settings 
+
+![image](https://github.com/user-attachments/assets/4f575c99-11f2-4136-9f75-f8550d38408a)
+
+
+And that's it :)
