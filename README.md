@@ -76,5 +76,10 @@ We need to navigate to Group Police Managment > Default Domain Policy > Settings
 
 ![image](https://github.com/user-attachments/assets/4f575c99-11f2-4136-9f75-f8550d38408a)
 
+Task 4:What is the IP address of the C2 server the script would exfiltrate to?
+I opend the file explorer then search by this superimportant-updated.ps1 and i found it, open and there was that ip:
+
+![image](https://github.com/user-attachments/assets/3df1c6a7-3837-47d8-8d36-df78bebe0acc)
+
 
 And that's it :)
